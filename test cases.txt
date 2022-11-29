@@ -1,0 +1,8 @@
+100000000 256 prime.txt
+10000000 8 out.txt
+6102823 7 prime.txt
+59557 6 output.txt
+7499 4 out.txt
+100 5 out.txt
+97 2 output.txt
+11 1 out.txt
